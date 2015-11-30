@@ -17,14 +17,14 @@
     "test": "node test.js"
   },
   "keywords": [
-    "css,px,style,pixel,value"
+    "css", "px", "style", "pixel", "value"
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/mikkoh/add-px-to-style.git"
+    "url": "git://github.com/Jam3/add-px-to-style.git"
   },
-  "homepage": "https://github.com/mikkoh/add-px-to-style",
+  "homepage": "https://github.com/Jam3/add-px-to-style",
   "bugs": {
-    "url": "https://github.com/mikkoh/add-px-to-style/issues"
+    "url": "https://github.com/Jam3/add-px-to-style/issues"
   }
 }
